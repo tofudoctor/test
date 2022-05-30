@@ -1,4 +1,4 @@
-public class course 
+public class cours 
 {
     private String cname;
     private student []arr=new student[5];
